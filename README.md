@@ -6,3 +6,4 @@ This repository contains Python code for a selection of tables, figures and LAB 
 List of content:  
 <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tutorial-IntroductionToStatisticalLearning/blob/master/Notebooks/Chapter%203.ipynb'>Chapter 3 - Linear Regression</A><BR>
 <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tutorial-IntroductionToStatisticalLearning/blob/master/Notebooks/Chapter%204.ipynb'>Chapter 4 - Classification</A><BR>
+<A href='http://nbviewer.ipython.org/github/cciprianmihai/Tutorial-IntroductionToStatisticalLearning/blob/master/Notebooks/Chapter%205.ipynb'>Chapter 5 - Resampling Methods</A><BR>
