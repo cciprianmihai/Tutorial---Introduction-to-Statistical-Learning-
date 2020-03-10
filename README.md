@@ -8,3 +8,4 @@ List of content:
 <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tutorial-IntroductionToStatisticalLearning/blob/master/Notebooks/Chapter%204.ipynb'>Chapter 4 - Classification</A><BR>
 <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tutorial-IntroductionToStatisticalLearning/blob/master/Notebooks/Chapter%205.ipynb'>Chapter 5 - Resampling Methods</A><BR>
 <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tutorial-IntroductionToStatisticalLearning/blob/master/Notebooks/Chapter%206.ipynb'>Chapter 6 - Linear Model Selection and Regularization</A><BR>
+<A href='http://nbviewer.ipython.org/github/cciprianmihai/Tutorial-IntroductionToStatisticalLearning/blob/master/Notebooks/Chapter%207.ipynb'>Chapter 7 - Moving Beyond Linearity</A><BR>
