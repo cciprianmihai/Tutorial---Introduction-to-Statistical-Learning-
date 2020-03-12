@@ -10,3 +10,4 @@ List of content:
 <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tutorial-IntroductionToStatisticalLearning/blob/master/Notebooks/Chapter%206.ipynb'>Chapter 6 - Linear Model Selection and Regularization</A><BR>
 <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tutorial-IntroductionToStatisticalLearning/blob/master/Notebooks/Chapter%207.ipynb'>Chapter 7 - Moving Beyond Linearity</A><BR>
 <A href='http://nbviewer.ipython.org/github/cciprianmihai/Tutorial-IntroductionToStatisticalLearning/blob/master/Notebooks/Chapter%208.ipynb'>Chapter 8 - Tree-Based Methods</A><BR>
+<A href='http://nbviewer.ipython.org/github/cciprianmihai/Tutorial-IntroductionToStatisticalLearning/blob/master/Notebooks/Chapter%209.ipynb'>Chapter 9 - Tree-Based Methods</A><BR>
